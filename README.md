@@ -67,7 +67,7 @@ In this chapter, I will show you the result of the contrast experiment.  And the
 
 |      Models     |  NDCG@3   |  NDCG@5  |   MAP    |
 | :--------------: | :---------: | :---------: | :---------: |
-|  **DRMM_TKS**  | **0.6513** | **0.6207** | **0.6302** |
+|  **DRMM_TKS**  | **0.6213** | **0.6407** | **0.6302** |
 
 
 
